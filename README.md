@@ -24,12 +24,17 @@ A simple AI-powered chatbot built using **Node.js, Express.js, and Google Gemini
 2. **Install Dependencies**  
    ```sh
    npm install
+
+3. **Create a .env file and add your Google Gemini API key**
+
+   ***Example:***
+      API_KEY=your_api_key_here
    
-3. **Run the server**  
+4. **Run the server**  
    ```sh
    node index.js
    
-4. **Open in browser**  
+5. **Open in browser**  
    ```sh
    Go to http://localhost:3000
 
